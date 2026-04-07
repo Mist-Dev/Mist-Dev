@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, video games, music.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on anything that will help me learn.
-- 📫 How to reach me: umbralmist@gmail.com
+- 📫 How to reach me: mistdev0@proton.me
 
 <!---
 Mist-Dev/Mist-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
